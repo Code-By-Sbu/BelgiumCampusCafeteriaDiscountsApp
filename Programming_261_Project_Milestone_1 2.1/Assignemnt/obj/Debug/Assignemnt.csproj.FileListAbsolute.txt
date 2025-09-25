@@ -1,0 +1,21 @@
+C:\Users\User\Documents\PRG261\Assignemnt\Assignemnt\bin\Debug\Assignemnt.exe.config
+C:\Users\User\Documents\PRG261\Assignemnt\Assignemnt\bin\Debug\Assignemnt.exe
+C:\Users\User\Documents\PRG261\Assignemnt\Assignemnt\bin\Debug\Assignemnt.pdb
+C:\Users\User\Documents\PRG261\Assignemnt\Assignemnt\obj\Debug\Assignemnt.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PRG261\Assignemnt\Assignemnt\obj\Debug\Assignemnt.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PRG261\Assignemnt\Assignemnt\obj\Debug\Assignemnt.exe
+C:\Users\User\Documents\PRG261\Assignemnt\Assignemnt\obj\Debug\Assignemnt.pdb
+C:\Users\dell\Desktop\Programming_261_Project_Milestone_1 2.0\Assignemnt\bin\Debug\Assignemnt.exe.config
+C:\Users\dell\Desktop\Programming_261_Project_Milestone_1 2.0\Assignemnt\bin\Debug\Assignemnt.exe
+C:\Users\dell\Desktop\Programming_261_Project_Milestone_1 2.0\Assignemnt\bin\Debug\Assignemnt.pdb
+C:\Users\dell\Desktop\Programming_261_Project_Milestone_1 2.0\Assignemnt\obj\Debug\Assignemnt.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Programming_261_Project_Milestone_1 2.0\Assignemnt\obj\Debug\Assignemnt.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Programming_261_Project_Milestone_1 2.0\Assignemnt\obj\Debug\Assignemnt.exe
+C:\Users\dell\Desktop\Programming_261_Project_Milestone_1 2.0\Assignemnt\obj\Debug\Assignemnt.pdb
+C:\Users\User\Downloads\prg\Programming_261_Project_Milestone_1 2.0\Assignemnt\bin\Debug\Assignemnt.exe.config
+C:\Users\User\Downloads\prg\Programming_261_Project_Milestone_1 2.0\Assignemnt\bin\Debug\Assignemnt.exe
+C:\Users\User\Downloads\prg\Programming_261_Project_Milestone_1 2.0\Assignemnt\bin\Debug\Assignemnt.pdb
+C:\Users\User\Downloads\prg\Programming_261_Project_Milestone_1 2.0\Assignemnt\obj\Debug\Assignemnt.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\prg\Programming_261_Project_Milestone_1 2.0\Assignemnt\obj\Debug\Assignemnt.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\prg\Programming_261_Project_Milestone_1 2.0\Assignemnt\obj\Debug\Assignemnt.exe
+C:\Users\User\Downloads\prg\Programming_261_Project_Milestone_1 2.0\Assignemnt\obj\Debug\Assignemnt.pdb
